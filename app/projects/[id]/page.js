@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import Header from "../../../components/Header";
 import { projects } from "../../../lib/projects";
 import { FaGlobe, FaTools, FaArrowLeft } from "react-icons/fa";
 
@@ -100,8 +99,8 @@ export default function ProjectPage({ params }) {
             Interested in a Similar Project?
           </h3>
           <p className="text-gray-300 mb-6">
-            If you're looking to create a website like this or have a project in
-            mind, I'd love to hear from you!
+            If you&apos;re looking to create a website like this or have a project in
+            mind, I&apos;d love to hear from you!
           </p>
           <Link
             href="/contact"

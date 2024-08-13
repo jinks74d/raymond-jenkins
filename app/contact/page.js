@@ -1,4 +1,3 @@
-import Header from "../../components/Header";
 import ContactForm from "../../components/ContactForm";
 import { FaMapMarkerAlt, FaEnvelope, FaLinkedin } from "react-icons/fa";
 
@@ -9,9 +8,9 @@ export default function ContactPage() {
         <h1 className="text-4xl font-bold mb-8 text-center">Get in Touch</h1>
         <div className="max-w-4xl mx-auto">
           <p className="mb-8 text-center text-lg">
-            I'm always excited to take on new challenges and help businesses
+            I&apos;m always excited to take on new challenges and help businesses
             succeed online. Whether you need a custom Webflow site or a complex
-            web application, I'm here to help.
+            web application, I&apos;m here to help.
           </p>
 
           <div className="grid md:grid-cols-2 gap-8 mb-12">
