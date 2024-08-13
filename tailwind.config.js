@@ -5,12 +5,16 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  darkMode: "class",
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        "light-bg": "#f4f4f8",
+        "light-text": "#333333",
+        "dark-bg": "#0F0A1F",
+        "dark-text": "#ffffff",
+        "accent-light": "#7B61FF",
+        "accent-dark": "#A855F7",
       },
     },
   },
