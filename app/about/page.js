@@ -12,7 +12,7 @@ export default function AboutPage() {
           <div className="md:w-1/3 mb-8 md:mb-0">
             <div className="relative w-96 h-96 rounded-lg overflow-hidden glow mx-auto">
               <Image
-                src="/images/raymond-jenkins.jpg"
+                src="https://uploads-ssl.webflow.com/63bc61e1031fecb5e2759458/66bbcb0a2f578c1619431ff7_raymond-jenkins.jpg"
                 alt="Raymond Jenkins"
                 layout="fill"
                 objectFit="contain"

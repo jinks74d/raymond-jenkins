@@ -44,9 +44,9 @@ export default function Home() {
             problem-solving and an unwavering commitment to delivering results.
             <br />
             <br />
-            Whether you&apos;re a startup looking to establish your digital presence
-            or an established business aiming to revamp your online strategy,
-            I&apos;m here to turn your vision into reality.
+            Whether you&apos;re a startup looking to establish your digital
+            presence or an established business aiming to revamp your online
+            strategy, I&apos;m here to turn your vision into reality.
           </p>
           <h2 className="text-2xl mb-4">
             Let&apos;s Build Something Extraordinary Together!
@@ -67,7 +67,7 @@ export default function Home() {
         <div className="md:w-1/2 flex justify-center">
           <div className="relative w-96 h-96 overflow-hidden">
             <Image
-              src="/images/raymond-0041.jpg"
+              src="https://uploads-ssl.webflow.com/63bc61e1031fecb5e2759458/66bbcb0a8fe8038ffed28ac6_Raymond-0041.jpg"
               alt="Raymond Jenkins"
               layout="fill"
               objectFit="contain"
