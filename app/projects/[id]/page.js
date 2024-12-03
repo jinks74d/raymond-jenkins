@@ -78,7 +78,7 @@ export default function ProjectPage({ params }) {
           </div>
         </div>
 
-        <div className="mt-12">
+        {/* <div className="mt-12">
           <h3 className="text-2xl font-semibold mb-4">
             Project Challenges and Solutions
           </h3>
@@ -92,7 +92,7 @@ export default function ProjectPage({ params }) {
             {project.results ||
               "The finished website not only met but exceeded the client's expectations. It provided a significant improvement in user engagement and helped streamline the client's online operations."}
           </p>
-        </div>
+        </div> */}
 
         <div className="mt-12 text-center">
           <h3 className="text-2xl font-semibold mb-4">

@@ -9,7 +9,7 @@ export default function Header() {
           href="/"
           className="text-2xl font-bold text-light-text dark:text-dark-text"
         >
-          RJ
+          Raymond Jenkins
         </Link>
         <ul className="flex items-center space-x-6">
           <li>
